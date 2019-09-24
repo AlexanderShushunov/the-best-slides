@@ -1,5 +1,7 @@
 # Материалы к вступлению "Хорошие слайды" или "Помогать, а не мешать"
 
+[Презентация](https://drive.google.com/file/d/1CuCma0WUJhFo68-6hCYCEh1Wn2luIzGM/view?usp=sharing)
+
 ## Полезные ссылки
 - [Смерть через PowerPoint](https://www.slideshare.net/thecroaker/death-by-powerpoint-rus) ([для РФ](https://drive.google.com/file/d/15LYX_Ma6iH0JksVDX2rKFMKUvC1BSEMQ/view?usp=sharing)) - презентация с основами хорошей презентации
 - [Книга Алексея Каптерева "Мастерство Презентации"](https://www.litres.ru/aleksey-kapterev/masterstvo-prezentacii-kak-sozdavat-prezentacii-kotorye-mogut-izmenit-mir/?lfrom=460221634&ref_key=310f2a28e29537b83490a5d1c931866c172f878edeb9c60325f46ef89631492b&ref_offer=1)
