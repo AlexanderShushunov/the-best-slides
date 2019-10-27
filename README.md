@@ -12,7 +12,12 @@
 - [Презентация Дениса Радина с заказанной графикой](https://drive.google.com/file/d/1X9ua8HVz_kF5LbK7bpTjZlDL4jSuwH4O/view)
 - [How to present code](https://www.slideshare.net/LookAtMySlides/codeware) ([для РФ](https://drive.google.com/file/d/14UgsrQu15MfbRKpUA5Aqg58G5LAgoEgO/view?usp=sharing)) 
 - [Безопастные шрифты]( https://templates.mailchimp.com/design/typography/)
+- [Исследование на тему, "какой шрифт смешнее"](https://www.ncbi.nlm.nih.gov/pubmed/18459353)
 - [Альтернатива PowerPoint для программистов](https://github.com/shower/shower)
+
+### Тренинги и мастер-классы
+- ["Почему Стив Джобс любил шрифты" (Алексей Каптерев)](https://youtu.be/vRzaPvm3nhY). [Слайды]( https://www.slideshare.net/thecroaker/lectures-on-typefaces) ([для РФ](https://drive.google.com/file/d/1jFHR7SRSC71z1r1d2wFqtWydJdMJqsO8/view?usp=sharing)), с похожего выступления.
+
 
 ### Фотобанки, с бесплатными картинками
  - https://www.freepik.com/
