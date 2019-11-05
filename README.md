@@ -25,3 +25,8 @@
  - https://pixabay.com/
  - https://ru.freeimages.com/
  - https://morguefile.com
+ - Flat-иллюстрации людей (https://www.behance.net/gallery/69400595/People-Flat-Illustration, https://www.behance.net/gallery/84031591/People-Illustration-Bundle2, https://www.behance.net/gallery/73845993/People-Illustration-Bundle)
+ - [Cкриншоты переписки](https://screenchat.live/)
+ - [Набор векторных иллюстраций с возможностью кастомизации](https://iradesign.io/)
+ - [Необычные иллюстрации](https://mixkit.co/)
+ 
