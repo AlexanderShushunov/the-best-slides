@@ -3,6 +3,7 @@
 [Презентация](https://drive.google.com/file/d/1CuCma0WUJhFo68-6hCYCEh1Wn2luIzGM/view?usp=sharing)
 
 ## Полезные ссылки
+- [Канал "Немного терпения"](https://t.me/pptxx) - посвящен созданию слайдов
 - [Смерть через PowerPoint](https://www.slideshare.net/thecroaker/death-by-powerpoint-rus) ([для РФ](https://drive.google.com/file/d/15LYX_Ma6iH0JksVDX2rKFMKUvC1BSEMQ/view?usp=sharing)) - презентация с основами хорошей презентации
 - [Книга Алексея Каптерева "Мастерство Презентации"](https://www.litres.ru/aleksey-kapterev/masterstvo-prezentacii-kak-sozdavat-prezentacii-kotorye-mogut-izmenit-mir/?lfrom=460221634&ref_key=310f2a28e29537b83490a5d1c931866c172f878edeb9c60325f46ef89631492b&ref_offer=1)
 - [Правило 5 секунд](https://marketing.wikireading.ru/8731)
@@ -26,7 +27,10 @@
  - https://ru.freeimages.com/
  - https://morguefile.com
  - Flat-иллюстрации людей ([1](https://www.behance.net/gallery/69400595/People-Flat-Illustration), [2](https://www.behance.net/gallery/84031591/People-Illustration-Bundle2), [3](https://www.behance.net/gallery/73845993/People-Illustration-Bundle))
- - [Cкриншоты переписки](https://screenchat.live/)
  - [Набор векторных иллюстраций с возможностью кастомизации](https://iradesign.io/)
  - [Необычные иллюстрации](https://mixkit.co/)
+ 
+ ### Полезные сервисы
+ - [Cкриншоты переписки](https://screenchat.live/)
+ - [Кастомные композиции объектов](https://artboard.studio/)
  
