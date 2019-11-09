@@ -1,6 +1,6 @@
 # Материалы к мастер-классу "Хорошие слайды" или "Помогать, а не мешать"
 
-[Презентация](https://drive.google.com/file/d/1CuCma0WUJhFo68-6hCYCEh1Wn2luIzGM/view?usp=sharing)
+[Слайды с](https://drive.google.com/file/d/1MeRUZWNKI98HAwUUZvxPieWtjCylFDK3/view?usp=sharing) DUMP Kazan 2019
 
 ## Полезные ссылки
 - [Канал "Немного терпения"](https://t.me/pptxx) - посвящен созданию слайдов
