@@ -29,6 +29,7 @@
  - Flat-иллюстрации людей ([1](https://www.behance.net/gallery/69400595/People-Flat-Illustration), [2](https://www.behance.net/gallery/84031591/People-Illustration-Bundle2), [3](https://www.behance.net/gallery/73845993/People-Illustration-Bundle))
  - [Набор векторных иллюстраций с возможностью кастомизации](https://iradesign.io/)
  - [Необычные иллюстрации](https://mixkit.co/)
+ - [100 классных иллюстраций](https://illlustrations.co/)
  
  ### Полезные сервисы
  - [Cкриншоты переписки](https://screenchat.live/)
